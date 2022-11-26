@@ -1,0 +1,14 @@
+.folder__wraper {
+    cursor: pointer;
+    display: flex;
+    padding: 8px;
+    justify-content: space-between;
+    width: 400px;
+    border-bottom: 1px solid #D6D6D6;
+}
+
+.actions__wrapper span {
+    padding: 4px;
+    border: 0.5px solid black;
+    margin-right: 8px;
+}
